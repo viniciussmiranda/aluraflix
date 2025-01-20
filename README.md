@@ -4,16 +4,6 @@
 
 ---
 
-## Funcionalidades  
-
-- **Exibição de vídeos:** Visualize vídeos cadastrados de maneira dinâmica em uma interface interativa.  
-- **Criação de vídeos:** Adicione novos vídeos com título, imagem, link e descrição por meio de um formulário intuitivo.  
-- **Edição de vídeos:** Atualize as informações dos vídeos diretamente na interface.  
-- **Exclusão de vídeos:** Remova vídeos com apenas um clique.  
-- **Atualizações dinâmicas:** As alterações feitas são refletidas instantaneamente na aplicação, sem necessidade de recarregar a página.  
-
----
-
 ## Tecnologias Utilizadas  
 
 - **React**: Construção de componentes dinâmicos e gerenciamento de estados.  
@@ -21,17 +11,6 @@
 - **HTML**: Estruturação da aplicação.  
 - **CSS**: Estilização e design responsivo.  
 - **json-server**: Simulação de uma API REST para persistência de dados.  
-
----
-
-## Objetivo  
-
-O principal objetivo deste projeto é praticar e consolidar conceitos fundamentais de desenvolvimento web, incluindo:  
-
-- Implementação de operações CRUD.  
-- Integração de frontend e backend utilizando APIs REST simuladas.  
-- Gerenciamento de estados com React Hooks.  
-- Boas práticas de desenvolvimento e organização de código.  
 
 ---
 
