@@ -1,0 +1,52 @@
+[
+    {   
+        "id": 1,
+        "src":"https://www.youtube.com/embed/8xo1FID4TqU" ,
+        "categoria": "Front End"
+
+    },
+    {	
+        "id": 2,
+        "src": "https://www.youtube.com/embed/ZY3-MFxVdEw?si=sofTDDxHR0JhF306",
+        "categoria": "Front End"
+
+    },{
+        "id": 3,
+        "src":"https://www.youtube.com/embed/fpth65ts3cw",
+        "categoria": "Front End"
+
+    },
+    {
+        "id": 4,
+        "src": "https://www.youtube.com/embed/GEdE3abzmLg?si=0H7W1B5cAzLA8zl9",
+        "categoria": "Back End"
+
+    },
+    {   
+        "id": 5,
+        "src": "https://www.youtube.com/embed/3Wo4L2dPS58?si=k2RXlulKyl2QTuW8",
+         "categoria": "Back End"
+
+    },{
+        "id": 6,
+        "src":"https://www.youtube.com/embed/wXMlMsDvk2M?si=vTmN44uWG0ICedUc",
+         "categoria": "Back End"
+    },
+    {	
+        "id": 7,
+        "src": "https://www.youtube.com/embed/COY5vTa778g?si=t4uNJjUGqeaiVaKg",
+        "categoria": "Mobile"
+
+    },
+    {
+        "id": 8,
+        "src": "https://www.youtube.com/embed/xU2r-dSdN1o?si=cSR17h1EMtJSv4QV",
+        "categoria": "Mobile"
+
+    },{
+        "id": 9,
+        "src":"https://www.youtube.com/embed/fWscDFHKgw8?si=EqnaGR8LQpgP5Pae",
+        "categoria": "Mobile"
+    }
+   
+]
